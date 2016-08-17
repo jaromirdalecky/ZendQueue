@@ -1,6 +1,6 @@
 ### ZendQueue component
 
-Master: [![Build Status](https://secure.travis-ci.org/zendframework/ZendQueue.png?branch=master)](http://travis-ci.org/zendframework/ZendQueue)
+Master: [![Build Status](https://secure.travis-ci.org/concrete5/ZendQueue.png?branch=master)](http://travis-ci.org/concrete5/ZendQueue)
 
 You can install using:
 
