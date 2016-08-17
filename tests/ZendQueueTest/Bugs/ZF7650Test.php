@@ -22,7 +22,7 @@ use ZendQueue\Queue;
  * @subpackage UnitTests
  * @group      Zend_Queue
  */
-class Zf7650Test extends \PHPUnit_Framework_TestCase
+class ZF7650Test extends \PHPUnit_Framework_TestCase
 {
     public function testArrayAdapterShouldReturnNoMessagesWhenZeroCountRequested()
     {
