@@ -1,5 +1,5 @@
 {
-    "name": "concrete5/zend-queue",
+    "name": "concretecms/zend-queue",
     "description": "PHP7 compatible version of the zend component that provides a factory function to create specific queue client objects",
     "type": "library",
     "license": "BSD-3-Clause",
