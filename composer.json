@@ -1,5 +1,5 @@
 {
-    "name": "concretecms/zend-queue",
+    "name": "jaromirdalecky/zend-queue",
     "description": "PHP7 compatible version of the zend component that provides a factory function to create specific queue client objects",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -14,15 +14,15 @@
         }
     },
     "require-dev": {
-        "zendframework/zend-config": "~2",
-        "zendframework/zend-db": "~2",
-        "zendframework/zend-json": "~2"
+        "laminas/laminas-config": "~2",
+        "laminas/laminas-db": "~2",
+        "laminas/laminas-json": "~2"
     },
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zend-stdlib": "~2"
+        "laminas/laminas-stdlib": "~2"
     },
     "suggest": {
-        "zendframework/zend-db": "Zend\\Db required if you are using the DB queue adapter"
+        "laminas/laminas-db": "Zend\\Db required if you are using the DB queue adapter"
     }
 }
